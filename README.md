@@ -6,4 +6,4 @@ How to upload and download files PHP and MySQL
 - [x] HTML form to upload .zip, .pdf, .docx, .ppt, as well as image files.
 - [x] Upload .zip, .pdf, .docx, .ppt, as well as image files to server using PHP.
 - [x] Store file name in the database using PHP and MySQL.
-- [x] Retrieve .zip, .pdf, .docx, .ppt, as well as image files from the database and display in the web page.
+- [x] Retrieve .zip, .pdf, .docx, .ppt, png, jpeg as well as image files from the database and display in the web page.
